@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1>Hi, I'm Gregory! <br/><a href="https://www.linkedin.com/in/gkounga/">Cybersecurity Professional</a></h1>
 
-<!--
-**gkounga/gkounga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Cloud</b>
+  - [Cloud Resume Challenge](https://github.com/gkounga/cloudResumeChallenge)
+  - [Azure Sentinel showcasing attack locations and intensity levels](https://github.com/gkounga/azureSentinelLab)
+  - [Implementing CICD in AWS](https://github.com/gkounga/OidcAwsGithub)
+  
+<h2>📖 Article posts:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Information Security</b>
+  - [The Pyramid of Pain](https://linkedin.com/pulse/pyramid-pain-gr%C3%A9gory-kounga-cissp-cism-pmp--1wrce?utm_source=share&utm_medium=guest_desktop&utm_campaign=copy)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Gkounga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/gkounga
+
+</br>
+
+***
+
+<a href="https://tryhackme.com/p/gkoun"> <img src="https://tryhackme-badges.s3.amazonaws.com/gkoun.png" alt="HTML tutorial" >
