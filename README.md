@@ -5,7 +5,7 @@
 - <b>Cloud</b>
   - [Cloud Resume Challenge](https://github.com/gkounga/cloudResumeChallenge)
   - [Azure Sentinel showcasing attack locations and intensity levels](https://github.com/gkounga/azureSentinelLab)
-  - [Implementing CICD in AWS](https://github.com/gkounga/OidcAwsGithub)
+  - [Implementing OpenID Connect (OIDC) for GitHub Action Authorization in AWS to enable CICD](https://github.com/gkounga/OidcAwsGithub)
   
 <h2>📖 Article posts:</h2>
 
