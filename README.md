@@ -22,5 +22,5 @@
 
 ***
 
-<a href="https://tryhackme.com/p/gkoun"> <img src="https://tryhackme-badges.s3.amazonaws.com/gkoun.png" alt="TryHackMe" >
+<a href="https://tryhackme.com/p/gkoun"> <img src="https://github.com/gkounga/gkounga/assets/99138607/58b4c8e1-3bbc-40b8-a5f3-76ee1df0de02" alt="TryHackMe" >
 
