@@ -22,4 +22,4 @@
 
 ***
 
-<a href="https://tryhackme.com/p/gkoun"> <img src="https://tryhackme-badges.s3.amazonaws.com/gkoun.png" alt="HTML tutorial" >
+<a href="https://tryhackme.com/p/gkoun"> <img src="https://tryhackme-badges.s3.amazonaws.com/gkoun.png" alt="TryHackMe" >
